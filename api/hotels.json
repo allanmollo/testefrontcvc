@@ -1,0 +1,1625 @@
+{
+  "hotels": [
+    {
+      "id": "34036939",
+      "priority": 4,
+      "name": "Catalina Hotel and Beach Club",
+      "award": 3,
+      "isPreferential": false,
+      "location": {
+        "address": "1732 Collins Avenue",
+        "coordinates": {
+          "latitude": "25.7928468689145",
+          "longitude": "-80.1299402117729"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "10E1MSsfQBVi9bIGdgx+DoFMMKW1jwQ6tKdjxnXAKGAm/YwpEbXCB6T63+tOMsbjtjD97toGQwiSZfFVkVOiGOQ1aZw4leAcGjOgAp4t1oIPXLuI41BsTEG5xtq91R23D59R8Oj8um9Dg3DVJFFmDyHoLCm/o3+dqlK/QaHiG6/0fLgN/110XuW4Pd9d9xjT|SA",
+          "mealPlan": "Sem café",
+          "category": "Double room",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQwMzY5MzkiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iODYiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSIxMEUxTVNzZlFCVmk5YklHZGd4K0RvRk1NS1cxandRNnRLZGp4blhBS0dBbS9Zd3BFYlhDQjZUNjMrdE9Nc2JqdGpEOTd0b0dRd2lTWmZGVmtWT2lHT1ExYVp3NGxlQWNHak9nQXA0dDFvSVBYTHVJNDFCc1RFRzV4dHE5MVIyM0Q1OVI4T2o4dW05RGczRFZKRkZtRHlIb0xDbS9vMytkcWxLL1FhSGlHNi8wZkxnTi8xMTBYdVc0UGQ5ZDl4alQiIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 1909.05,
+              "priceWithoutTax": 1468.5,
+              "pricePerDayWithTax": 136.37,
+              "pricePerDayWithoutTax": 104.9,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQwMzY5MzkiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI4NiIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9IjEwRTFNU3NmUUJWaTliSUdkZ3grRG9GTU1LVzFqd1E2dEtkanhuWEFLR0FtL1l3cEViWENCNlQ2Myt0T01zYmp0akQ5N3RvR1F3aVNaZkZWa1ZPaUdPUTFhWnc0bGVBY0dqT2dBcDR0MW9JUFhMdUk0MUJzVEVHNXh0cTkxUjIzRDU5UjhPajh1bTlEZzNEVkpGRm1EeUhvTENtL28zK2RxbEsvUWFIaUc2LzBmTGdOLzExMFh1VzRQZDlkOXhqVCIgc2N0PSJCUiIgc2R0PSIyMDE2LTExLTA0WiIgc3N0PSJTUCIgc3ppPSI3NzMiLz4=",
+              "currency": "BRL",
+              "priceWithTax": 1909.05,
+              "priceWithoutTax": 1468.5,
+              "pricePerDayWithTax": 136.37,
+              "pricePerDayWithoutTax": 104.9,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34036863",
+      "priority": 4,
+      "name": "MAJESTIC HOTEL SOUTH BEACH",
+      "award": 3,
+      "isPreferential": false,
+      "location": {
+        "address": "660 Ocean Drive, Miami Beach, 33139, Miami Beach, Miami, Fl, US",
+        "coordinates": {
+          "latitude": "25.776619",
+          "longitude": "-80.13156"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "ixj9sUBQ1bpaAU8GZkrOVKxZdl6qQAkk1cP9xsUJfv9haLdR4E0L8Ahmxw/smXb+Er12WkEJLKkfX1cNcHQqKAhlygiwey6B/axWsVXJvn5qopwTNOq5MOGznMLoNXnnMdzpnTRujmFOeATEEHltvg9hiqF7/eBGnWLeV/yR0k0=|SA|false",
+          "mealPlan": "Sem café",
+          "category": "Doble Superior v/lateral",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQwMzY4NjMiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iNTgiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSJpeGo5c1VCUTFicGFBVThHWmtyT1ZLeFpkbDZxUUFrazFjUDl4c1VKZnY5aGFMZFI0RTBMOEFobXh3L3NtWGIrRXIxMldrRUpMS2tmWDFjTmNIUXFLQWhseWdpd2V5NkIvYXhXc1ZYSnZuNXFvcHdUTk9xNU1PR3puTUxvTlhubk1kenBuVFJ1am1GT2VBVEVFSGx0dmc5aGlxRjcvZUJHbldMZVYveVIwazA9IiBzY3Q9IkJSIiBzZHQ9IjIwMTYtMTEtMDRaIiBzc3Q9IlNQIiBzemk9Ijc3MyIvPg==",
+              "currency": "BRL",
+              "priceWithTax": 1910.07,
+              "priceWithoutTax": 1469.28,
+              "pricePerDayWithTax": 136.44,
+              "pricePerDayWithoutTax": 104.95,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQwMzY4NjMiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI1OCIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9Iml4ajlzVUJRMWJwYUFVOEdaa3JPVkt4WmRsNnFRQWtrMWNQOXhzVUpmdjloYUxkUjRFMEw4QWhteHcvc21YYitFcjEyV2tFSkxLa2ZYMWNOY0hRcUtBaGx5Z2l3ZXk2Qi9heFdzVlhKdm41cW9wd1ROT3E1TU9Hem5NTG9OWG5uTWR6cG5UUnVqbUZPZUFURUVIbHR2ZzloaXFGNy9lQkduV0xlVi95UjBrMD0iIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 1910.07,
+              "priceWithoutTax": 1469.28,
+              "pricePerDayWithTax": 136.44,
+              "pricePerDayWithoutTax": 104.95,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ],
+          "cancellationPolicy": [
+            {
+              "nonRefundable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34146438",
+      "priority": 4,
+      "name": "THE DADDY O HOTEL",
+      "award": 4,
+      "isPreferential": false,
+      "location": {
+        "address": "9660 E Bay Harbor Dr, Bay Harbo, 33154, Bay Harbor Islands, Fl, Miami, Fl, US",
+        "coordinates": {
+          "latitude": "25.8876",
+          "longitude": "-80.129648"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "sg0dLEa30MzOKs0BPnJmEXHDaRTYhlIuZtdX+PotlxAvgiqoJdXDrL+7JkHe068OiUKvqz+zz+jU6egsLf69tU4yRRXed+8JxzHj6cpwb0abPaQnowO4Akp5OXb0M370eacXAJUIV6L2OKjgfBgQzTNj3Orf9d8BDUyo6BBjhCM=|SA|false",
+          "mealPlan": "Sem café",
+          "category": "Deluxe King Hotusa Stay Longer and Save 30%",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIzMzcxNyIgY3VyPSJCUkwiIGR0Zj0iMjAxNi0xMS0yMyIgZHRpPSIyMDE2LTExLTA5IiBlY3Q9IlVTIiBlc3Q9IkZMIiBlemk9IjEzNTI4IiBob3Q9IjM0MTQ2NDM4IiBsYW49InB0X0JSIiBta2k9IjEiIG1rcD0iMC42OCIgcGtnPSJTVEFOREFMT05FIiBwbGE9IjU4IiBwcmQ9IkhPVCIgcHhzPSIzMCwzMCIgcmV0PSIiIHJ0Yz0ic2cwZExFYTMwTXpPS3MwQlBuSm1FWEhEYVJUWWhsSXVadGRYK1BvdGx4QXZnaXFvSmRYRHJMKzdKa0hlMDY4T2lVS3Zxeit6eitqVTZlZ3NMZjY5dFU0eVJSWGVkKzhKeHpIajZjcHdiMGFiUGFRbm93TzRBa3A1T1hiME0zNzBlYWNYQUpVSVY2TDJPS2pnZkJnUXpUTmozT3JmOWQ4QkRVeW82QkJqaENNPSIgc2N0PSJCUiIgc2R0PSIyMDE2LTExLTA0WiIgc3N0PSJTUCIgc3ppPSI3NzMiLz4=",
+              "currency": "BRL",
+              "priceWithTax": 2020.52,
+              "priceWithoutTax": 1554.24,
+              "pricePerDayWithTax": 144.33,
+              "pricePerDayWithoutTax": 111.02,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIzMzcxNyIgY3VyPSJCUkwiIGR0Zj0iMjAxNi0xMS0yMyIgZHRpPSIyMDE2LTExLTA5IiBlY3Q9IlVTIiBlc3Q9IkZMIiBlemk9IjEzNTI4IiBob3Q9IjM0MTQ2NDM4IiBsYW49InB0X0JSIiBta2k9IjEiIG1rcD0iMC42OCIgcGtnPSJWSEkiIHBsYT0iNTgiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSJzZzBkTEVhMzBNek9LczBCUG5KbUVYSERhUlRZaGxJdVp0ZFgrUG90bHhBdmdpcW9KZFhEckwrN0prSGUwNjhPaVVLdnF6K3p6K2pVNmVnc0xmNjl0VTR5UlJYZWQrOEp4ekhqNmNwd2IwYWJQYVFub3dPNEFrcDVPWGIwTTM3MGVhY1hBSlVJVjZMMk9LamdmQmdRelROajNPcmY5ZDhCRFV5bzZCQmpoQ009IiBzY3Q9IkJSIiBzZHQ9IjIwMTYtMTEtMDRaIiBzc3Q9IlNQIiBzemk9Ijc3MyIvPg==",
+              "currency": "BRL",
+              "priceWithTax": 2020.52,
+              "priceWithoutTax": 1554.24,
+              "pricePerDayWithTax": 144.33,
+              "pricePerDayWithoutTax": 111.02,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ],
+          "cancellationPolicy": [
+            {
+              "nonRefundable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34150678",
+      "priority": 4,
+      "name": "RAMADA PLAZA MARCO POLO BEACH RESORT (KT)",
+      "award": 3,
+      "isPreferential": false,
+      "location": {
+        "address": "19201 Collins Avenue Sunny Isles, 33160, Miami Beach, Miami, Fl, US",
+        "coordinates": {
+          "latitude": "25.954482",
+          "longitude": "-80.119734"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "4vf6O7U235UeRdqtH6oJaotd1/xL0W9jrsF7vk/kd6okO2j8gMxb+iMc0zEf0AG2hVie1eyIHb+kremQUWxI/KHKFpsc2Cnp1c+PCc9ELV6b4eGHm2RZm7NfBMVms96ypVboifp5SEJ8OuU3uMk7a8NLQ2NADdHHP/lQ6BPKtIc=|SA|false",
+          "mealPlan": "Sem café",
+          "category": "Standard Room",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI0Nzc5IiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQxNTA2NzgiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iNTgiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSI0dmY2TzdVMjM1VWVSZHF0SDZvSmFvdGQxL3hMMFc5anJzRjd2ay9rZDZva08yajhnTXhiK2lNYzB6RWYwQUcyaFZpZTFleUlIYitrcmVtUVVXeEkvS0hLRnBzYzJDbnAxYytQQ2M5RUxWNmI0ZUdIbTJSWm03TmZCTVZtczk2eXBWYm9pZnA1U0VKOE91VTN1TWs3YThOTFEyTkFEZEhIUC9sUTZCUEt0SWM9IiBzY3Q9IkJSIiBzZHQ9IjIwMTYtMTEtMDRaIiBzc3Q9IlNQIiBzemk9Ijc3MyIvPg==",
+              "currency": "BRL",
+              "priceWithTax": 2108.64,
+              "priceWithoutTax": 1622.03,
+              "pricePerDayWithTax": 150.62,
+              "pricePerDayWithoutTax": 115.86,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI0Nzc5IiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQxNTA2NzgiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI1OCIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9IjR2ZjZPN1UyMzVVZVJkcXRINm9KYW90ZDEveEwwVzlqcnNGN3ZrL2tkNm9rTzJqOGdNeGIraU1jMHpFZjBBRzJoVmllMWV5SUhiK2tyZW1RVVd4SS9LSEtGcHNjMkNucDFjK1BDYzlFTFY2YjRlR0htMlJabTdOZkJNVm1zOTZ5cFZib2lmcDVTRUo4T3VVM3VNazdhOE5MUTJOQURkSEhQL2xRNkJQS3RJYz0iIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2108.64,
+              "priceWithoutTax": 1622.03,
+              "pricePerDayWithTax": 150.62,
+              "pricePerDayWithoutTax": 115.86,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ],
+          "cancellationPolicy": [
+            {
+              "nonRefundable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34986163",
+      "priority": 4,
+      "name": "RIVIERA SOUTH BEACH",
+      "award": 4,
+      "isPreferential": false,
+      "location": {
+        "address": "318 20th Street  33139 Miami Beach Florida Unites, 33139, Miami Beach, Miami, Fl, US",
+        "coordinates": {
+          "latitude": "25.796361",
+          "longitude": "-80.130216"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "10E1MSsfQBVi9bIGdgx+DvaWA/6FOnUEADzwK63zYmiuckKebeZlDwXrTLZ2apV5MCFTVb/K9TpRb0bJa2t48BHQAAbgSAj7vkxh1mrxOSpLD8bTB6A2DVDbOD7SPZ6AFgVIw+v5C77ZTh16mK85jHBvVMjJUy6L76lLPT2B2dn/efOHscVJk4+Wc0X96Oe+|SA|true",
+          "mealPlan": "Sem café",
+          "category": "Double room",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQ5ODYxNjMiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iODYiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSIxMEUxTVNzZlFCVmk5YklHZGd4K0R2YVdBLzZGT25VRUFEendLNjN6WW1pdWNrS2ViZVpsRHdYclRMWjJhcFY1TUNGVFZiL0s5VHBSYjBiSmEydDQ4QkhRQUFiZ1NBajd2a3hoMW1yeE9TcExEOGJUQjZBMkRWRGJPRDdTUFo2QUZnVkl3K3Y1Qzc3WlRoMTZtSzg1akhCdlZNakpVeTZMNzZsTFBUMkIyZG4vZWZPSHNjVkprNCtXYzBYOTZPZSsiIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2138.74,
+              "priceWithoutTax": 1645.18,
+              "pricePerDayWithTax": 152.77,
+              "pricePerDayWithoutTax": 117.52,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQ5ODYxNjMiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI4NiIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9IjEwRTFNU3NmUUJWaTliSUdkZ3grRHZhV0EvNkZPblVFQUR6d0s2M3pZbWl1Y2tLZWJlWmxEd1hyVExaMmFwVjVNQ0ZUVmIvSzlUcFJiMGJKYTJ0NDhCSFFBQWJnU0FqN3ZreGgxbXJ4T1NwTEQ4YlRCNkEyRFZEYk9EN1NQWjZBRmdWSXcrdjVDNzdaVGgxNm1LODVqSEJ2Vk1qSlV5Nkw3NmxMUFQyQjJkbi9lZk9Ic2NWSms0K1djMFg5Nk9lKyIgc2N0PSJCUiIgc2R0PSIyMDE2LTExLTA0WiIgc3N0PSJTUCIgc3ppPSI3NzMiLz4=",
+              "currency": "BRL",
+              "priceWithTax": 2138.74,
+              "priceWithoutTax": 1645.18,
+              "pricePerDayWithTax": 152.77,
+              "pricePerDayWithoutTax": 117.52,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ],
+          "cancellationPolicy": [
+            {
+              "nonRefundable": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34984743",
+      "priority": 4,
+      "name": "Best Western On the Bay Inn & Marina",
+      "description": "Property Location With a stay at Best Western On the Bay Inn & Marina in North Bay Village, you'll be near the bay and close to Normandy Shores Golf Club and Mount Sinai Medical",
+      "award": 3,
+      "isPreferential": false,
+      "location": {
+        "address": "1819 79th Street Causeway, North Bay Village",
+        "coordinates": {
+          "latitude": "25.84849",
+          "longitude": "-80.1483"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "10E1MSsfQBVi9bIGdgx+Dsa93djc17+x1bTvGJMc8olwNgIAVk9HUNQT9RKssZgmOct4BB+n7PIAxA+LPDCAuo8y9g14YQa3CnGhJYQQJg2NZy5jLpVRyHHmzV5TntfmGL0G0rgONXTyE/UuCW7ykc45Goe14C18y/p0Ydcxfx5c34G5TdxnJgB35NqCFAYJ9P162PcelGrukPj5s8L+1g==|SA|false",
+          "mealPlan": "Sem café",
+          "category": "Standard Room, 1 King Bed, Non Smoking, Refrigerator &amp; Microwave - Multi Night Stay Rate",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIxMjYyNSIgY3VyPSJCUkwiIGR0Zj0iMjAxNi0xMS0yMyIgZHRpPSIyMDE2LTExLTA5IiBlY3Q9IlVTIiBlc3Q9IkZMIiBlemk9IjEzNTI4IiBob3Q9IjM0OTg0NzQzIiBsYW49InB0X0JSIiBta2k9IjEiIG1rcD0iMC42OCIgcGtnPSJTVEFOREFMT05FIiBwbGE9Ijg2IiBwcmQ9IkhPVCIgcHhzPSIzMCwzMCIgcmV0PSIiIHJ0Yz0iMTBFMU1Tc2ZRQlZpOWJJR2RneCtEc2E5M2RqYzE3K3gxYlR2R0pNYzhvbHdOZ0lBVms5SFVOUVQ5Uktzc1pnbU9jdDRCQituN1BJQXhBK0xQRENBdW84eTlnMTRZUWEzQ25HaEpZUVFKZzJOWnk1akxwVlJ5SEhtelY1VG50Zm1HTDBHMHJnT05YVHlFL1V1Q1c3eWtjNDVHb2UxNEMxOHkvcDBZZGN4Zng1YzM0RzVUZHhuSmdCMzVOcUNGQVlKOVAxNjJQY2VsR3J1a1BqNXM4TCsxZz09IiBzY3Q9IkJSIiBzZHQ9IjIwMTYtMTEtMDRaIiBzc3Q9IlNQIiBzemk9Ijc3MyIvPg==",
+              "currency": "BRL",
+              "priceWithTax": 2184.63,
+              "priceWithoutTax": 1680.48,
+              "pricePerDayWithTax": 156.05,
+              "pricePerDayWithoutTax": 120.04,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIxMjYyNSIgY3VyPSJCUkwiIGR0Zj0iMjAxNi0xMS0yMyIgZHRpPSIyMDE2LTExLTA5IiBlY3Q9IlVTIiBlc3Q9IkZMIiBlemk9IjEzNTI4IiBob3Q9IjM0OTg0NzQzIiBsYW49InB0X0JSIiBta2k9IjEiIG1rcD0iMC42OCIgcGtnPSJWSEkiIHBsYT0iODYiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSIxMEUxTVNzZlFCVmk5YklHZGd4K0RzYTkzZGpjMTcreDFiVHZHSk1jOG9sd05nSUFWazlIVU5RVDlSS3NzWmdtT2N0NEJCK243UElBeEErTFBEQ0F1bzh5OWcxNFlRYTNDbkdoSllRUUpnMk5aeTVqTHBWUnlISG16VjVUbnRmbUdMMEcwcmdPTlhUeUUvVXVDVzd5a2M0NUdvZTE0QzE4eS9wMFlkY3hmeDVjMzRHNVRkeG5KZ0IzNU5xQ0ZBWUo5UDE2MlBjZWxHcnVrUGo1czhMKzFnPT0iIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2184.63,
+              "priceWithoutTax": 1680.48,
+              "pricePerDayWithTax": 156.05,
+              "pricePerDayWithoutTax": 120.04,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ],
+          "cancellationPolicy": [
+            {
+              "nonRefundable": false
+            }
+          ]
+        }
+      ],
+      "links": {
+        "thumbnailImage": {
+          "href": "http://images.travelnow.com/hotels/1000000/30000/21000/20925/20925_323_t.jpg"
+        }
+      }
+    },
+    {
+      "id": "34036991",
+      "priority": 4,
+      "name": "DESIGN SUITES AT CASTLE BEACH",
+      "award": 3,
+      "isPreferential": false,
+      "location": {
+        "address": "5445 Collins Avenue, 33140, Miami Beach, Miami, Fl, US",
+        "coordinates": {
+          "latitude": "25.833694",
+          "longitude": "-80.120997"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "gS1Z4Oprg77Oudi/QiRyCj+ZJ7YfqF09gXsnOJyP68JoWUyE0ISMCIgtC71UURqf4ficQyZkNo++Rqfk1zG65WgPd96Froje0jKv/5Le3hCzKhUvpo39TKFToF/IUZGGObCAMUaWY8VIuw2AyoNF7d5+tvCci1AQLtkYJz4li88=|SA|false",
+          "mealPlan": "Sem café",
+          "category": "Suite Bay views (2 pers)",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQwMzY5OTEiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iNTgiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSJnUzFaNE9wcmc3N091ZGkvUWlSeUNqK1pKN1lmcUYwOWdYc25PSnlQNjhKb1dVeUUwSVNNQ0lndEM3MVVVUnFmNGZpY1F5WmtObysrUnFmazF6RzY1V2dQZDk2RnJvamUwakt2LzVMZTNoQ3pLaFV2cG8zOVRLRlRvRi9JVVpHR09iQ0FNVWFXWThWSXV3MkF5b05GN2Q1K3R2Q2NpMUFRTHRrWUp6NGxpODg9IiBzY3Q9IkJSIiBzZHQ9IjIwMTYtMTEtMDRaIiBzc3Q9IlNQIiBzemk9Ijc3MyIvPg==",
+              "currency": "BRL",
+              "priceWithTax": 2196.25,
+              "priceWithoutTax": 1689.42,
+              "pricePerDayWithTax": 156.88,
+              "pricePerDayWithoutTax": 120.68,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQwMzY5OTEiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI1OCIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9ImdTMVo0T3ByZzc3T3VkaS9RaVJ5Q2orWko3WWZxRjA5Z1hzbk9KeVA2OEpvV1V5RTBJU01DSWd0QzcxVVVScWY0ZmljUXlaa05vKytScWZrMXpHNjVXZ1BkOTZGcm9qZTBqS3YvNUxlM2hDektoVXZwbzM5VEtGVG9GL0lVWkdHT2JDQU1VYVdZOFZJdXcyQXlvTkY3ZDUrdHZDY2kxQVFMdGtZSno0bGk4OD0iIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2196.25,
+              "priceWithoutTax": 1689.42,
+              "pricePerDayWithTax": 156.88,
+              "pricePerDayWithoutTax": 120.68,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ],
+          "cancellationPolicy": [
+            {
+              "nonRefundable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34836182",
+      "priority": 4,
+      "name": "Villa Byron Suites",
+      "award": 3,
+      "isPreferential": false,
+      "location": {
+        "address": "7320 Byron Avenue",
+        "coordinates": {
+          "latitude": "25.858776",
+          "longitude": "-80.12373"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "10E1MSsfQBVi9bIGdgx+DsQupPY9Il5Xf07rbjxpr56NfkA0JFGEHPqj7G/xINADduxpMrTBW3w7agNxC2NnqzZnf1AzwzMfvhNGUj32613TgsTXVMbRur87mzRiYvi/iybHK/eGrTXY/RA8tJH+75QxyIWG8pa2rAireCqfsbQDrXsMdndWXSzUWVywRxyR|SA",
+          "mealPlan": "Sem café",
+          "category": "Studio",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIxODkwNSIgY3VyPSJCUkwiIGR0Zj0iMjAxNi0xMS0yMyIgZHRpPSIyMDE2LTExLTA5IiBlY3Q9IlVTIiBlc3Q9IkZMIiBlemk9IjEzNTI4IiBob3Q9IjM0ODM2MTgyIiBsYW49InB0X0JSIiBta2k9IjEiIG1rcD0iMC42OCIgcGtnPSJTVEFOREFMT05FIiBwbGE9Ijg2IiBwcmQ9IkhPVCIgcHhzPSIzMCwzMCIgcmV0PSIiIHJ0Yz0iMTBFMU1Tc2ZRQlZpOWJJR2RneCtEc1F1cFBZOUlsNVhmMDdyYmp4cHI1Nk5ma0EwSkZHRUhQcWo3Ry94SU5BRGR1eHBNclRCVzN3N2FnTnhDMk5ucXpabmYxQXp3ek1mdmhOR1VqMzI2MTNUZ3NUWFZNYlJ1cjg3bXpSaVl2aS9peWJISy9lR3JUWFkvUkE4dEpIKzc1UXh5SVdHOHBhMnJBaXJlQ3Fmc2JRRHJYc01kbmRXWFN6VVdWeXdSeHlSIiBzY3Q9IkJSIiBzZHQ9IjIwMTYtMTEtMDRaIiBzc3Q9IlNQIiBzemk9Ijc3MyIvPg==",
+              "currency": "BRL",
+              "priceWithTax": 2256.45,
+              "priceWithoutTax": 1735.73,
+              "pricePerDayWithTax": 161.18,
+              "pricePerDayWithoutTax": 123.99,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIxODkwNSIgY3VyPSJCUkwiIGR0Zj0iMjAxNi0xMS0yMyIgZHRpPSIyMDE2LTExLTA5IiBlY3Q9IlVTIiBlc3Q9IkZMIiBlemk9IjEzNTI4IiBob3Q9IjM0ODM2MTgyIiBsYW49InB0X0JSIiBta2k9IjEiIG1rcD0iMC42OCIgcGtnPSJWSEkiIHBsYT0iODYiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSIxMEUxTVNzZlFCVmk5YklHZGd4K0RzUXVwUFk5SWw1WGYwN3JianhwcjU2TmZrQTBKRkdFSFBxajdHL3hJTkFEZHV4cE1yVEJXM3c3YWdOeEMyTm5xelpuZjFBend6TWZ2aE5HVWozMjYxM1Rnc1RYVk1iUnVyODdtelJpWXZpL2l5YkhLL2VHclRYWS9SQTh0SkgrNzVReHlJV0c4cGEyckFpcmVDcWZzYlFEclhzTWRuZFdYU3pVV1Z5d1J4eVIiIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2256.45,
+              "priceWithoutTax": 1735.73,
+              "pricePerDayWithTax": 161.18,
+              "pricePerDayWithoutTax": 123.99,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34036879",
+      "priority": 4,
+      "name": "Metropole South Beach",
+      "award": 4,
+      "isPreferential": false,
+      "location": {
+        "address": "635 Collins Avenue",
+        "coordinates": {
+          "latitude": "25.7765131745294",
+          "longitude": "-80.1325500011444"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "10E1MSsfQBVi9bIGdgx+DmJ0bq7nNBYHqWcQ9zn87KzAtjYazcdKzmR/VpIu6ZOib2d9VwmRgYetUddLfEL7a8e/xwk/jBtBJqZCUwNBr7g+Hp6rG4peeGWvLsc0aaS3v/re0S4LmvjDBSK12IjJZgY/tEbjJp+HdD2it5IdGIXjPRjfKZlRL4EyHPSOusjR|SA",
+          "mealPlan": "Sem café",
+          "category": "Suite 1 bedroom",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQwMzY4NzkiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iODYiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSIxMEUxTVNzZlFCVmk5YklHZGd4K0RtSjBicTduTkJZSHFXY1E5em44N0t6QXRqWWF6Y2RLem1SL1ZwSXU2Wk9pYjJkOVZ3bVJnWWV0VWRkTGZFTDdhOGUveHdrL2pCdEJKcVpDVXdOQnI3ZytIcDZyRzRwZWVHV3ZMc2MwYWFTM3YvcmUwUzRMbXZqREJTSzEySWpKWmdZL3RFYmpKcCtIZEQyaXQ1SWRHSVhqUFJqZktabFJMNEV5SFBTT3VzalIiIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2277.76,
+              "priceWithoutTax": 1752.12,
+              "pricePerDayWithTax": 162.7,
+              "pricePerDayWithoutTax": 125.16,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQwMzY4NzkiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI4NiIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9IjEwRTFNU3NmUUJWaTliSUdkZ3grRG1KMGJxN25OQllIcVdjUTl6bjg3S3pBdGpZYXpjZEt6bVIvVnBJdTZaT2liMmQ5VndtUmdZZXRVZGRMZkVMN2E4ZS94d2svakJ0QkpxWkNVd05CcjdnK0hwNnJHNHBlZUdXdkxzYzBhYVMzdi9yZTBTNExtdmpEQlNLMTJJakpaZ1kvdEViakpwK0hkRDJpdDVJZEdJWGpQUmpmS1psUkw0RXlIUFNPdXNqUiIgc2N0PSJCUiIgc2R0PSIyMDE2LTExLTA0WiIgc3N0PSJTUCIgc3ppPSI3NzMiLz4=",
+              "currency": "BRL",
+              "priceWithTax": 2277.76,
+              "priceWithoutTax": 1752.12,
+              "pricePerDayWithTax": 162.7,
+              "pricePerDayWithoutTax": 125.16,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34150568",
+      "priority": 4,
+      "name": "SANCTUARY SOUTH BEACH",
+      "award": 4,
+      "isPreferential": false,
+      "location": {
+        "address": "1745 James Av, 33139, Miami Beach, Miami, Fl, US",
+        "coordinates": {
+          "latitude": "25.793124",
+          "longitude": "-80.130663"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "10E1MSsfQBVi9bIGdgx+DmindU1smugRU8q4v2Q9cqjqW60CKuaCXlPTwncohdBTnB0HSJxnCgGgqoHtemTMhUHZd21fIQf8qfT/x4YKXLQo8iS/BjQEcweQmkNWQRlBDtVzACr+NWBR7rOVF4IFXw9L9F23pYrisIK1J86cOKLVKMc2FJ/hsWj+9ja9pFvJ|AD|false",
+          "mealPlan": "Café da manhã",
+          "category": "Luxury Suite (1 room, 2 pers",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQxNTA1NjgiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iODYiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSIxMEUxTVNzZlFCVmk5YklHZGd4K0RtaW5kVTFzbXVnUlU4cTR2MlE5Y3FqcVc2MENLdWFDWGxQVHduY29oZEJUbkIwSFNKeG5DZ0dncW9IdGVtVE1oVUhaZDIxZklRZjhxZlQveDRZS1hMUW84aVMvQmpRRWN3ZVFta05XUVJsQkR0VnpBQ3IrTldCUjdyT1ZGNElGWHc5TDlGMjNwWXJpc0lLMUo4NmNPS0xWS01jMkZKL2hzV2orOWphOXBGdkoiIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2299.35,
+              "priceWithoutTax": 1768.73,
+              "pricePerDayWithTax": 164.24,
+              "pricePerDayWithoutTax": 126.34,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQxNTA1NjgiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI4NiIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9IjEwRTFNU3NmUUJWaTliSUdkZ3grRG1pbmRVMXNtdWdSVThxNHYyUTljcWpxVzYwQ0t1YUNYbFBUd25jb2hkQlRuQjBIU0p4bkNnR2dxb0h0ZW1UTWhVSFpkMjFmSVFmOHFmVC94NFlLWExRbzhpUy9CalFFY3dlUW1rTldRUmxCRHRWekFDcitOV0JSN3JPVkY0SUZYdzlMOUYyM3BZcmlzSUsxSjg2Y09LTFZLTWMyRkovaHNXais5amE5cEZ2SiIgc2N0PSJCUiIgc2R0PSIyMDE2LTExLTA0WiIgc3N0PSJTUCIgc3ppPSI3NzMiLz4=",
+              "currency": "BRL",
+              "priceWithTax": 2299.35,
+              "priceWithoutTax": 1768.73,
+              "pricePerDayWithTax": 164.24,
+              "pricePerDayWithoutTax": 126.34,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ],
+          "cancellationPolicy": [
+            {
+              "nonRefundable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34826409",
+      "priority": 4,
+      "name": "CROYDON HOTEL",
+      "award": 4,
+      "isPreferential": false,
+      "location": {
+        "address": "3720 Collins Avenue  33140 Miami Beach Florida Uni, 33140, Miami Beach, Miami, Fl, US",
+        "coordinates": {
+          "latitude": "25.810925",
+          "longitude": "-80.123706"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "10E1MSsfQBVi9bIGdgx+Dtf7PJasWHB+cw13hD3D1pr9XNZXuvaSDmxXFAd6Jl+Sr9KdGUQT7+C5nCtMJKZgDrT06gAFmoeqCK92bc9IzKpMecCntScfc371lGZsXvn9ftDLoInKWTG+SKWnRH0YPybUnlfExCNfsWgsThpyjG7gGDEZmz/0+ZeaObX2mSqD|SA|true",
+          "mealPlan": "Sem café",
+          "category": "Twin/Double room",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQ4MjY0MDkiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iODYiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSIxMEUxTVNzZlFCVmk5YklHZGd4K0R0ZjdQSmFzV0hCK2N3MTNoRDNEMXByOVhOWlh1dmFTRG14WEZBZDZKbCtTcjlLZEdVUVQ3K0M1bkN0TUpLWmdEclQwNmdBRm1vZXFDSzkyYmM5SXpLcE1lY0NudFNjZmMzNzFsR1pzWHZuOWZ0RExvSW5LV1RHK1NLV25SSDBZUHliVW5sZkV4Q05mc1dnc1RocHlqRzdnR0RFWm16LzArWmVhT2JYMm1TcUQiIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2299.68,
+              "priceWithoutTax": 1768.98,
+              "pricePerDayWithTax": 164.27,
+              "pricePerDayWithoutTax": 126.36,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQ4MjY0MDkiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI4NiIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9IjEwRTFNU3NmUUJWaTliSUdkZ3grRHRmN1BKYXNXSEIrY3cxM2hEM0QxcHI5WE5aWHV2YVNEbXhYRkFkNkpsK1NyOUtkR1VRVDcrQzVuQ3RNSktaZ0RyVDA2Z0FGbW9lcUNLOTJiYzlJektwTWVjQ250U2NmYzM3MWxHWnNYdm45ZnRETG9JbktXVEcrU0tXblJIMFlQeWJVbmxmRXhDTmZzV2dzVGhweWpHN2dHREVabXovMCtaZWFPYlgybVNxRCIgc2N0PSJCUiIgc2R0PSIyMDE2LTExLTA0WiIgc3N0PSJTUCIgc3ppPSI3NzMiLz4=",
+              "currency": "BRL",
+              "priceWithTax": 2299.68,
+              "priceWithoutTax": 1768.98,
+              "pricePerDayWithTax": 164.27,
+              "pricePerDayWithoutTax": 126.36,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ],
+          "cancellationPolicy": [
+            {
+              "nonRefundable": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34157534",
+      "priority": 4,
+      "name": "RICHMOND HOTEL",
+      "award": 3,
+      "isPreferential": false,
+      "location": {
+        "address": "1757 Collins Avenue, 33139, Miami Beach, Miami, Fl, US",
+        "coordinates": {
+          "latitude": "25.793487",
+          "longitude": "-80.129304"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "sgPMk4DDinMUa63mVUmN3G795xHeTDcoy9lkWr2PqR7CEMWYC/w4aPvP3mLcq9eQHsQKWD3mEEFasLEBiqdyvU8wBSzV7PWeUtC8vsoaSkmYA8mqPUWPN/8dLbOYE9orAboy00dZ4iY/PpMLt1dYC3RLPpJ/QaEebpKMrN+YB3w=|SA|false",
+          "mealPlan": "Sem café",
+          "category": "Superior Double (queen bed)",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQxNTc1MzQiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iNTgiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSJzZ1BNazRERGluTVVhNjNtVlVtTjNHNzk1eEhlVERjb3k5bGtXcjJQcVI3Q0VNV1lDL3c0YVB2UDNtTGNxOWVRSHNRS1dEM21FRUZhc0xFQmlxZHl2VTh3QlN6VjdQV2VVdEM4dnNvYVNrbVlBOG1xUFVXUE4vOGRMYk9ZRTlvckFib3kwMGRaNGlZL1BwTUx0MWRZQzNSTFBwSi9RYUVlYnBLTXJOK1lCM3c9IiBzY3Q9IkJSIiBzZHQ9IjIwMTYtMTEtMDRaIiBzc3Q9IlNQIiBzemk9Ijc3MyIvPg==",
+              "currency": "BRL",
+              "priceWithTax": 2324.6,
+              "priceWithoutTax": 1788.15,
+              "pricePerDayWithTax": 166.05,
+              "pricePerDayWithoutTax": 127.73,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQxNTc1MzQiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI1OCIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9InNnUE1rNEREaW5NVWE2M21WVW1OM0c3OTV4SGVURGNveTlsa1dyMlBxUjdDRU1XWUMvdzRhUHZQM21MY3E5ZVFIc1FLV0QzbUVFRmFzTEVCaXFkeXZVOHdCU3pWN1BXZVV0Qzh2c29hU2ttWUE4bXFQVVdQTi84ZExiT1lFOW9yQWJveTAwZFo0aVkvUHBNTHQxZFlDM1JMUHBKL1FhRWVicEtNck4rWUIzdz0iIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2324.6,
+              "priceWithoutTax": 1788.15,
+              "pricePerDayWithTax": 166.05,
+              "pricePerDayWithoutTax": 127.73,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ],
+          "cancellationPolicy": [
+            {
+              "nonRefundable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34986423",
+      "priority": 4,
+      "name": "The Lofts on the Park",
+      "description": "Property Location Located in North Miami, The Lofts on the Park is within the vicinity of Bal Harbour Shops and Aventura Mall.  This apartment is within close proximity of Dezer",
+      "award": 3,
+      "isPreferential": false,
+      "location": {
+        "address": "1660 NE 135th St. North, North Miami",
+        "coordinates": {
+          "latitude": "25.90023",
+          "longitude": "-80.16516"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "10E1MSsfQBVi9bIGdgx+Dsa93djc17+x1bTvGJMc8omIqiWXNl4VRrY71B0bTHW2NiB++oxCXYuFbQCnsWXPfwcWBYwOYGBZFw7fdilvAhxhzZhSSMzqnhUWCmc2aAkxTlGb8as0+5vA2FIRKHKYV8aAhQFD7T2N0+CPWanriw1KNOLQ8qMRgxhxrKV6ZcFO01yjO3O6Ma3QA+Vice8ozg==|AD|true",
+          "mealPlan": "Café da manhã",
+          "category": "Designer 2-level Suite with Gated Parking",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIxODg4NiIgY3VyPSJCUkwiIGR0Zj0iMjAxNi0xMS0yMyIgZHRpPSIyMDE2LTExLTA5IiBlY3Q9IlVTIiBlc3Q9IkZMIiBlemk9IjEzNTI4IiBob3Q9IjM0OTg2NDIzIiBsYW49InB0X0JSIiBta2k9IjEiIG1rcD0iMC42OCIgcGtnPSJTVEFOREFMT05FIiBwbGE9Ijg2IiBwcmQ9IkhPVCIgcHhzPSIzMCwzMCIgcmV0PSIiIHJ0Yz0iMTBFMU1Tc2ZRQlZpOWJJR2RneCtEc2E5M2RqYzE3K3gxYlR2R0pNYzhvbUlxaVdYTmw0VlJyWTcxQjBiVEhXMk5pQisrb3hDWFl1RmJRQ25zV1hQZndjV0JZd09ZR0JaRnc3ZmRpbHZBaHhoelpoU1NNenFuaFVXQ21jMmFBa3hUbEdiOGFzMCs1dkEyRklSS0hLWVY4YUFoUUZEN1QyTjArQ1BXYW5yaXcxS05PTFE4cU1SZ3hoeHJLVjZaY0ZPMDF5ak8zTzZNYTNRQStWaWNlOG96Zz09IiBzY3Q9IkJSIiBzZHQ9IjIwMTYtMTEtMDRaIiBzc3Q9IlNQIiBzemk9Ijc3MyIvPg==",
+              "currency": "BRL",
+              "priceWithTax": 2347.13,
+              "priceWithoutTax": 1805.48,
+              "pricePerDayWithTax": 167.66,
+              "pricePerDayWithoutTax": 128.97,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIxODg4NiIgY3VyPSJCUkwiIGR0Zj0iMjAxNi0xMS0yMyIgZHRpPSIyMDE2LTExLTA5IiBlY3Q9IlVTIiBlc3Q9IkZMIiBlemk9IjEzNTI4IiBob3Q9IjM0OTg2NDIzIiBsYW49InB0X0JSIiBta2k9IjEiIG1rcD0iMC42OCIgcGtnPSJWSEkiIHBsYT0iODYiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSIxMEUxTVNzZlFCVmk5YklHZGd4K0RzYTkzZGpjMTcreDFiVHZHSk1jOG9tSXFpV1hObDRWUnJZNzFCMGJUSFcyTmlCKytveENYWXVGYlFDbnNXWFBmd2NXQll3T1lHQlpGdzdmZGlsdkFoeGh6WmhTU016cW5oVVdDbWMyYUFreFRsR2I4YXMwKzV2QTJGSVJLSEtZVjhhQWhRRkQ3VDJOMCtDUFdhbnJpdzFLTk9MUThxTVJneGh4cktWNlpjRk8wMXlqTzNPNk1hM1FBK1ZpY2U4b3pnPT0iIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2347.13,
+              "priceWithoutTax": 1805.48,
+              "pricePerDayWithTax": 167.66,
+              "pricePerDayWithoutTax": 128.97,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ],
+          "cancellationPolicy": [
+            {
+              "nonRefundable": true
+            }
+          ]
+        }
+      ],
+      "links": {
+        "thumbnailImage": {
+          "href": "http://images.travelnow.com/hotels/6000000/5210000/5203100/5203007/5203007_14_t.jpg"
+        }
+      }
+    },
+    {
+      "id": "34063589",
+      "priority": 4,
+      "name": "Days Inn Miami International Airport",
+      "award": 3,
+      "isPreferential": false,
+      "location": {
+        "address": "7250 Northwest 11th Street, Miami - Fl, Florida, United States OF America",
+        "coordinates": {
+          "latitude": "25.781149",
+          "longitude": "-80.31266"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "10E1MSsfQBVi9bIGdgx+DmG/0C8S/jlgz6M6QEFrDU45VyZZBUf4YxqojhIv3UrFlHYDPijQide0JAnvKxYdNNtS9xoWeP+Tg0Hjy2lXmtN3eNMBllmOdHPRSh6m/vKWAg0+I+pkltkmigIOzySxDqXiSO1+Pqbptdcrp9npvzkN63DB6Wz3bS7LYDY4iche|SA",
+          "mealPlan": "Sem café",
+          "category": "1 KING",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIyMTI5IiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQwNjM1ODkiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iODYiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSIxMEUxTVNzZlFCVmk5YklHZGd4K0RtRy8wQzhTL2psZ3o2TTZRRUZyRFU0NVZ5WlpCVWY0WXhxb2poSXYzVXJGbEhZRFBpalFpZGUwSkFudkt4WWROTnRTOXhvV2VQK1RnMEhqeTJsWG10TjNlTk1CbGxtT2RIUFJTaDZtL3ZLV0FnMCtJK3BrbHRrbWlnSU96eVN4RHFYaVNPMStQcWJwdGRjcnA5bnB2emtONjNEQjZXejNiUzdMWURZNGljaGUiIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2374.16,
+              "priceWithoutTax": 1826.27,
+              "pricePerDayWithTax": 169.59,
+              "pricePerDayWithoutTax": 130.45,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIyMTI5IiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQwNjM1ODkiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI4NiIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9IjEwRTFNU3NmUUJWaTliSUdkZ3grRG1HLzBDOFMvamxnejZNNlFFRnJEVTQ1VnlaWkJVZjRZeHFvamhJdjNVckZsSFlEUGlqUWlkZTBKQW52S3hZZE5OdFM5eG9XZVArVGcwSGp5MmxYbXROM2VOTUJsbG1PZEhQUlNoNm0vdktXQWcwK0krcGtsdGttaWdJT3p5U3hEcVhpU08xK1BxYnB0ZGNycDlucHZ6a042M0RCNld6M2JTN0xZRFk0aWNoZSIgc2N0PSJCUiIgc2R0PSIyMDE2LTExLTA0WiIgc3N0PSJTUCIgc3ppPSI3NzMiLz4=",
+              "currency": "BRL",
+              "priceWithTax": 2374.16,
+              "priceWithoutTax": 1826.27,
+              "pricePerDayWithTax": 169.59,
+              "pricePerDayWithoutTax": 130.45,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34125964",
+      "priority": 4,
+      "name": "Days Hotel Thunderbird Beach Resort",
+      "description": "Localização\nEste simpático hotel situa-se junto à praia. Nas imediações encontrará os estabelecimentos comerciais do distrito de Sunny Isle e inúmeros restaurantes. São cerca de 20 minutos de automóvel até à praia de South Beach.",
+      "award": 3,
+      "isPreferential": false,
+      "location": {
+        "address": "18401 Collins Avenue Sunny Isles Beach Florida 33160, Sunny Isles Beach, Fl, US",
+        "coordinates": {
+          "latitude": "25.946953110553",
+          "longitude": "-80.1200629828034"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "gew5MwOCPgwI4QqKspzLxrpleN57i7olxbMV7DCY9KE4kcvQpVJD1PY+6kej//DkwatQTaiRBUoB8UFmZs6Fwd92XoCTm5+q1UPuhdSLYwpqCYonba6gNq2SXP81wB4Kl/uOuEmakK1128TtXFktmF3HA9Z3VL/HJWKuI0xTmfEK8gV0gLTe7h9ppEqVDOik|SA|false",
+          "mealPlan": "Sem café",
+          "category": "Standard",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI0Nzc5IiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQxMjU5NjQiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iNjMiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSJnZXc1TXdPQ1Bnd0k0UXFLc3B6THhycGxlTjU3aTdvbHhiTVY3RENZOUtFNGtjdlFwVkpEMVBZKzZrZWovL0Rrd2F0UVRhaVJCVW9COFVGbVpzNkZ3ZDkyWG9DVG01K3ExVVB1aGRTTFl3cHFDWW9uYmE2Z05xMlNYUDgxd0I0S2wvdU91RW1ha0sxMTI4VHRYRmt0bUYzSEE5WjNWTC9ISldLdUkweFRtZkVLOGdWMGdMVGU3aDlwcEVxVkRPaWsiIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2396.46,
+              "priceWithoutTax": 1843.43,
+              "pricePerDayWithTax": 171.18,
+              "pricePerDayWithoutTax": 131.68,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI0Nzc5IiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQxMjU5NjQiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI2MyIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9ImdldzVNd09DUGd3STRRcUtzcHpMeHJwbGVONTdpN29seGJNVjdEQ1k5S0U0a2N2UXBWSkQxUFkrNmtlai8vRGt3YXRRVGFpUkJVb0I4VUZtWnM2RndkOTJYb0NUbTUrcTFVUHVoZFNMWXdwcUNZb25iYTZnTnEyU1hQODF3QjRLbC91T3VFbWFrSzExMjhUdFhGa3RtRjNIQTlaM1ZML0hKV0t1STB4VG1mRUs4Z1YwZ0xUZTdoOXBwRXFWRE9payIgc2N0PSJCUiIgc2R0PSIyMDE2LTExLTA0WiIgc3N0PSJTUCIgc3ppPSI3NzMiLz4=",
+              "currency": "BRL",
+              "priceWithTax": 2396.46,
+              "priceWithoutTax": 1843.43,
+              "pricePerDayWithTax": 171.18,
+              "pricePerDayWithoutTax": 131.68,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ],
+          "cancellationPolicy": [
+            {
+              "nonRefundable": false
+            }
+          ]
+        }
+      ],
+      "links": {
+        "thumbnailImage": {
+          "href": "http://image1.urlforimages.com/Images/953/100x100/1163275757.jpg"
+        }
+      }
+    },
+    {
+      "id": "34261553",
+      "priority": 4,
+      "name": "RESIDENCE INN BY MARRIOTT MIAMI WEST/FLORIDA TURNPIKE",
+      "award": 3,
+      "isPreferential": false,
+      "location": {
+        "address": "11500 NW 105th Street, Miami, 33178, Miami - Fl, Florida, United States OF America",
+        "coordinates": {
+          "latitude": "25.869524552433",
+          "longitude": "-80.3837189961963"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "10E1MSsfQBVi9bIGdgx+DpoG5njuqTuagWig3wNJXu9hUTr1WDr9ul7Eqs0w4fGDXTHsEleoTZ7ppjkRIzX7nMOJYUhVUvkBJ2/wOW7LXC2izLnQnCFZlPjJ7/xTziJw257Dw5lxuLPw9mHuS5tuSz23kAIDPWHddDFaA4m3DWfL+JUj3WydEdBxHcO9PC95|SA",
+          "mealPlan": "Sem café",
+          "category": "2 Queen, Sofa bed",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIyMTI5IiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQyNjE1NTMiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iODYiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSIxMEUxTVNzZlFCVmk5YklHZGd4K0Rwb0c1bmp1cVR1YWdXaWczd05KWHU5aFVUcjFXRHI5dWw3RXFzMHc0ZkdEWFRIc0VsZW9UWjdwcGprUkl6WDduTU9KWVVoVlV2a0JKMi93T1c3TFhDMml6TG5RbkNGWmxQako3L3hUemlKdzI1N0R3NWx4dUxQdzltSHVTNXR1U3oyM2tBSURQV0hkZERGYUE0bTNEV2ZMK0pVajNXeWRFZEJ4SGNPOVBDOTUiIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2657.88,
+              "priceWithoutTax": 2044.52,
+              "pricePerDayWithTax": 189.85,
+              "pricePerDayWithoutTax": 146.04,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIyMTI5IiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQyNjE1NTMiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI4NiIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9IjEwRTFNU3NmUUJWaTliSUdkZ3grRHBvRzVuanVxVHVhZ1dpZzN3TkpYdTloVVRyMVdEcjl1bDdFcXMwdzRmR0RYVEhzRWxlb1RaN3BwamtSSXpYN25NT0pZVWhWVXZrQkoyL3dPVzdMWEMyaXpMblFuQ0ZabFBqSjcveFR6aUp3MjU3RHc1bHh1TFB3OW1IdVM1dHVTejIza0FJRFBXSGRkREZhQTRtM0RXZkwrSlVqM1d5ZEVkQnhIY085UEM5NSIgc2N0PSJCUiIgc2R0PSIyMDE2LTExLTA0WiIgc3N0PSJTUCIgc3ppPSI3NzMiLz4=",
+              "currency": "BRL",
+              "priceWithTax": 2657.88,
+              "priceWithoutTax": 2044.52,
+              "pricePerDayWithTax": 189.85,
+              "pricePerDayWithoutTax": 146.04,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34983231",
+      "priority": 4,
+      "name": "Ramada Inn Miami Airport North - Hialeah",
+      "description": "Sendo confortável e clássico, no  Ramada Inn Miami Airport North - Hialeah  sentir-se-á como em casa.",
+      "award": 3,
+      "isPreferential": false,
+      "location": {
+        "address": "1950 West 49th Street  Hialeah Florida 33012, Hialeah, Fl, US",
+        "coordinates": {
+          "latitude": "25.8655321138032",
+          "longitude": "-80.3217665423278"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "MdhPcI4IgvbYMlzgukCZ7x4lhhTwReRkigtdAJdxsSBC4ylycwVjcDoHIgFCF0z3QXRy2yBYbQJIh2WSSaZ1/fauKQ3bYi1JR4JIxdm08dfhecKJWem6+Sg2I/VlX3nsfEJBFFcGLVNoXpup+9BQxufs8TkuTN7p7Rmgl1u7Gt/DQFfJ45SYmzACtdDYiI7iiNVzKx0ic9/2228JWOrseA==|SA|false",
+          "mealPlan": "Sem café",
+          "category": "Standard",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI0Nzg5IiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQ5ODMyMzEiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iNjMiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSJNZGhQY0k0SWd2YllNbHpndWtDWjd4NGxoaFR3UmVSa2lndGRBSmR4c1NCQzR5bHljd1ZqY0RvSElnRkNGMHozUVhSeTJ5QlliUUpJaDJXU1NhWjEvZmF1S1EzYllpMUpSNEpJeGRtMDhkZmhlY0tKV2VtNitTZzJJL1ZsWDNuc2ZFSkJGRmNHTFZOb1hwdXArOUJReHVmczhUa3VUTjdwN1JtZ2wxdTdHdC9EUUZmSjQ1U1ltekFDdGREWWlJN2lpTlZ6S3gwaWM5LzIyMjhKV09yc2VBPT0iIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2674.69,
+              "priceWithoutTax": 2057.45,
+              "pricePerDayWithTax": 191.05,
+              "pricePerDayWithoutTax": 146.97,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI0Nzg5IiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQ5ODMyMzEiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI2MyIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9Ik1kaFBjSTRJZ3ZiWU1semd1a0NaN3g0bGhoVHdSZVJraWd0ZEFKZHhzU0JDNHlseWN3VmpjRG9ISWdGQ0YwejNRWFJ5MnlCWWJRSkloMldTU2FaMS9mYXVLUTNiWWkxSlI0Skl4ZG0wOGRmaGVjS0pXZW02K1NnMkkvVmxYM25zZkVKQkZGY0dMVk5vWHB1cCs5QlF4dWZzOFRrdVRON3A3Um1nbDF1N0d0L0RRRmZKNDVTWW16QUN0ZERZaUk3aWlOVnpLeDBpYzkvMjIyOEpXT3JzZUE9PSIgc2N0PSJCUiIgc2R0PSIyMDE2LTExLTA0WiIgc3N0PSJTUCIgc3ppPSI3NzMiLz4=",
+              "currency": "BRL",
+              "priceWithTax": 2674.69,
+              "priceWithoutTax": 2057.45,
+              "pricePerDayWithTax": 191.05,
+              "pricePerDayWithoutTax": 146.97,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ],
+          "cancellationPolicy": [
+            {
+              "nonRefundable": false
+            }
+          ]
+        }
+      ],
+      "links": {
+        "thumbnailImage": {
+          "href": "http://image1.urlforimages.com/Images/12299/100x100/1870052676.jpg"
+        }
+      }
+    },
+    {
+      "id": "34850424",
+      "priority": 4,
+      "name": "Shula's Hotel & Golf Club",
+      "description": "Property Location With a stay at Shula's Hotel & Golf Club in Miami Lakes, you'll be in the suburbs and close to Country Club of Miami. This golf resort is within the vicinity of Opa",
+      "award": 3,
+      "isPreferential": false,
+      "location": {
+        "address": "6842 Main Street, Miami Lakes",
+        "coordinates": {
+          "latitude": "25.91313",
+          "longitude": "-80.32285"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "10E1MSsfQBVi9bIGdgx+Dsa93djc17+x1bTvGJMc8onU1dzzNC5MRWMjPreZzbjGNzy/MEWJ/EOLUOVgmW01Mq2QnYgQP+PgyiR5Tx/n8WPoVBYz1F9m1Xsv8jH+UWngpme1jCOHBp9NUBxq/bZOrECD7Lp0TCzK2f1v3CPyT9NJ0k/B+HJ4cwZfk2vvk3MXfrpIQmgtFj3Fmg99g15iwQ==|SA|false",
+          "mealPlan": "Sem café",
+          "category": "Deluxe + $25 Shula&apos;s Steakhouse",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIxOTAxOCIgY3VyPSJCUkwiIGR0Zj0iMjAxNi0xMS0yMyIgZHRpPSIyMDE2LTExLTA5IiBlY3Q9IlVTIiBlc3Q9IkZMIiBlemk9IjEzNTI4IiBob3Q9IjM0ODUwNDI0IiBsYW49InB0X0JSIiBta2k9IjEiIG1rcD0iMC42OCIgcGtnPSJTVEFOREFMT05FIiBwbGE9Ijg2IiBwcmQ9IkhPVCIgcHhzPSIzMCwzMCIgcmV0PSIiIHJ0Yz0iMTBFMU1Tc2ZRQlZpOWJJR2RneCtEc2E5M2RqYzE3K3gxYlR2R0pNYzhvblUxZHp6TkM1TVJXTWpQcmVaemJqR056eS9NRVdKL0VPTFVPVmdtVzAxTXEyUW5ZZ1FQK1BneWlSNVR4L244V1BvVkJZejFGOW0xWHN2OGpIK1VXbmdwbWUxakNPSEJwOU5VQnhxL2JaT3JFQ0Q3THAwVEN6SzJmMXYzQ1B5VDlOSjBrL0IrSEo0Y3daZmsydnZrM01YZnJwSVFtZ3RGajNGbWc5OWcxNWl3UT09IiBzY3Q9IkJSIiBzZHQ9IjIwMTYtMTEtMDRaIiBzc3Q9IlNQIiBzemk9Ijc3MyIvPg==",
+              "currency": "BRL",
+              "priceWithTax": 2699.73,
+              "priceWithoutTax": 2076.71,
+              "pricePerDayWithTax": 192.84,
+              "pricePerDayWithoutTax": 148.34,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIxOTAxOCIgY3VyPSJCUkwiIGR0Zj0iMjAxNi0xMS0yMyIgZHRpPSIyMDE2LTExLTA5IiBlY3Q9IlVTIiBlc3Q9IkZMIiBlemk9IjEzNTI4IiBob3Q9IjM0ODUwNDI0IiBsYW49InB0X0JSIiBta2k9IjEiIG1rcD0iMC42OCIgcGtnPSJWSEkiIHBsYT0iODYiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSIxMEUxTVNzZlFCVmk5YklHZGd4K0RzYTkzZGpjMTcreDFiVHZHSk1jOG9uVTFkenpOQzVNUldNalByZVp6YmpHTnp5L01FV0ovRU9MVU9WZ21XMDFNcTJRbllnUVArUGd5aVI1VHgvbjhXUG9WQll6MUY5bTFYc3Y4akgrVVduZ3BtZTFqQ09IQnA5TlVCeHEvYlpPckVDRDdMcDBUQ3pLMmYxdjNDUHlUOU5KMGsvQitISjRjd1pmazJ2dmszTVhmcnBJUW1ndEZqM0ZtZzk5ZzE1aXdRPT0iIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2699.73,
+              "priceWithoutTax": 2076.71,
+              "pricePerDayWithTax": 192.84,
+              "pricePerDayWithoutTax": 148.34,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ],
+          "cancellationPolicy": [
+            {
+              "nonRefundable": false
+            }
+          ]
+        }
+      ],
+      "links": {
+        "thumbnailImage": {
+          "href": "http://images.travelnow.com/hotels/1000000/290000/283400/283400/283400_62_t.jpg"
+        }
+      }
+    },
+    {
+      "id": "34491712",
+      "priority": 4,
+      "name": "EL PASEO HOTEL",
+      "award": 3,
+      "isPreferential": false,
+      "location": {
+        "address": "405 Espanola Way, 33139, Miami, Miami, Fl, US",
+        "coordinates": {
+          "latitude": "25.787349",
+          "longitude": "-80.132"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "9ixTSnudDuDeLeBYvOEfCgeN3Hiq4bGYQE0UTVbzHh+37bxdaO2eXvLWBnA77GxFwzO1zSPZhe0Z3ThjfSz9o85sEGi4ut+d+iHJYSX5LtE+Zur+nI0TOCiFHASYBdpdYTOqF63s4SwxlsiDozlEQZ0PwsKI4Lwa1AQKafvYjx4=|SA|false",
+          "mealPlan": "Sem café",
+          "category": "STANDARD ROOM",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQ0OTE3MTIiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iNTgiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSI5aXhUU251ZER1RGVMZUJZdk9FZkNnZU4zSGlxNGJHWVFFMFVUVmJ6SGgrMzdieGRhTzJlWHZMV0JuQTc3R3hGd3pPMXpTUFpoZTBaM1RoamZTejlvODVzRUdpNHV0K2QraUhKWVNYNUx0RStadXIrbkkwVE9DaUZIQVNZQmRwZFlUT3FGNjNzNFN3eGxzaURvemxFUVowUHdzS0k0THdhMUFRS2FmdllqeDQ9IiBzY3Q9IkJSIiBzZHQ9IjIwMTYtMTEtMDRaIiBzc3Q9IlNQIiBzemk9Ijc3MyIvPg==",
+              "currency": "BRL",
+              "priceWithTax": 2705.33,
+              "priceWithoutTax": 2081.02,
+              "pricePerDayWithTax": 193.24,
+              "pricePerDayWithoutTax": 148.65,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQ0OTE3MTIiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI1OCIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9IjlpeFRTbnVkRHVEZUxlQll2T0VmQ2dlTjNIaXE0YkdZUUUwVVRWYnpIaCszN2J4ZGFPMmVYdkxXQm5BNzdHeEZ3ek8xelNQWmhlMFozVGhqZlN6OW84NXNFR2k0dXQrZCtpSEpZU1g1THRFK1p1cituSTBUT0NpRkhBU1lCZHBkWVRPcUY2M3M0U3d4bHNpRG96bEVRWjBQd3NLSTRMd2ExQVFLYWZ2WWp4ND0iIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2705.33,
+              "priceWithoutTax": 2081.02,
+              "pricePerDayWithTax": 193.24,
+              "pricePerDayWithoutTax": 148.65,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ],
+          "cancellationPolicy": [
+            {
+              "nonRefundable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34895388",
+      "priority": 4,
+      "name": "The Stiles Hotel South Beach",
+      "award": 4,
+      "isPreferential": false,
+      "location": {
+        "address": "1120 Collins Avenue, Miami Beach 33139, Florida United States",
+        "coordinates": {
+          "latitude": "25.782",
+          "longitude": "-80.132"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "10E1MSsfQBVi9bIGdgx+Dukrv6Me28lZERL/GMRbapJG9dqISqEkUKRZpSIIwWHtIwAqBMPf+CW5bSMgiBbpzcX3UcS89uHZ7PmbpNU9OgdNgH0d0yQRF+wKhY31rLc08lnO29Ret8D4NcvF6JK0+6EfzJBZaEEtNiEs63+9CL3zlUtazVkKBXizKI+LDacD|SA",
+          "mealPlan": "Sem café",
+          "category": "Single Queen City View Non Refundable",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQ4OTUzODgiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iODYiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSIxMEUxTVNzZlFCVmk5YklHZGd4K0R1a3J2Nk1lMjhsWkVSTC9HTVJiYXBKRzlkcUlTcUVrVUtSWnBTSUl3V0h0SXdBcUJNUGYrQ1c1YlNNZ2lCYnB6Y1gzVWNTODl1SFo3UG1icE5VOU9nZE5nSDBkMHlRUkYrd0toWTMxckxjMDhsbk8yOVJldDhENE5jdkY2SkswKzZFZnpKQlphRUV0TmlFczYzKzlDTDN6bFV0YXpWa0tCWGl6S0krTERhY0QiIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2745.8,
+              "priceWithoutTax": 2112.15,
+              "pricePerDayWithTax": 196.13,
+              "pricePerDayWithoutTax": 150.87,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQ4OTUzODgiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI4NiIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9IjEwRTFNU3NmUUJWaTliSUdkZ3grRHVrcnY2TWUyOGxaRVJML0dNUmJhcEpHOWRxSVNxRWtVS1JacFNJSXdXSHRJd0FxQk1QZitDVzViU01naUJicHpjWDNVY1M4OXVIWjdQbWJwTlU5T2dkTmdIMGQweVFSRit3S2hZMzFyTGMwOGxuTzI5UmV0OEQ0TmN2RjZKSzArNkVmekpCWmFFRXROaUVzNjMrOUNMM3psVXRhelZrS0JYaXpLSStMRGFjRCIgc2N0PSJCUiIgc2R0PSIyMDE2LTExLTA0WiIgc3N0PSJTUCIgc3ppPSI3NzMiLz4=",
+              "currency": "BRL",
+              "priceWithTax": 2745.8,
+              "priceWithoutTax": 2112.15,
+              "pricePerDayWithTax": 196.13,
+              "pricePerDayWithoutTax": 150.87,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34150572",
+      "priority": 4,
+      "name": "GALE SOUTH BEACH",
+      "award": 5,
+      "isPreferential": false,
+      "location": {
+        "address": "1690 Collins Av., 33139, Miami Beach, Miami, Fl, US",
+        "coordinates": {
+          "latitude": "25.792131",
+          "longitude": "-80.13024"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "1kRUEbM1LwvdMz5TdasBNivG+8nnXbE/Tvpr/yPYhTYm8Ziwj+n+ySbQTNbze3ho6/Eq035l8xQh2E1+iqLLPoq7JtI9uawfe5rHY8TBRtPDlkj3M/uodBFHV4LIiLg2AZ3ZM/NnA8m1yI9YLCiWDebn2eiy519ILyKhIn/RKgE=|SA|false",
+          "mealPlan": "Sem café",
+          "category": "Queen size bed",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQxNTA1NzIiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iNTgiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSIxa1JVRWJNMUx3dmRNejVUZGFzQk5pdkcrOG5uWGJFL1R2cHIveVBZaFRZbThaaXdqK24reVNiUVROYnplM2hvNi9FcTAzNWw4eFFoMkUxK2lxTExQb3E3SnRJOXVhd2ZlNXJIWThUQlJ0UERsa2ozTS91b2RCRkhWNExJaUxnMkFaM1pNL05uQThtMXlJOVlMQ2lXRGVibjJlaXk1MTlJTHlLaEluL1JLZ0U9IiBzY3Q9IkJSIiBzZHQ9IjIwMTYtMTEtMDRaIiBzc3Q9IlNQIiBzemk9Ijc3MyIvPg==",
+              "currency": "BRL",
+              "priceWithTax": 2750.35,
+              "priceWithoutTax": 2115.65,
+              "pricePerDayWithTax": 196.46,
+              "pricePerDayWithoutTax": 151.12,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQxNTA1NzIiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI1OCIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9IjFrUlVFYk0xTHd2ZE16NVRkYXNCTml2Rys4bm5YYkUvVHZwci95UFloVFltOFppd2orbit5U2JRVE5iemUzaG82L0VxMDM1bDh4UWgyRTEraXFMTFBvcTdKdEk5dWF3ZmU1ckhZOFRCUnRQRGxrajNNL3VvZEJGSFY0TElpTGcyQVozWk0vTm5BOG0xeUk5WUxDaVdEZWJuMmVpeTUxOUlMeUtoSW4vUktnRT0iIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2750.35,
+              "priceWithoutTax": 2115.65,
+              "pricePerDayWithTax": 196.46,
+              "pricePerDayWithoutTax": 151.12,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ],
+          "cancellationPolicy": [
+            {
+              "nonRefundable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34187303",
+      "priority": 4,
+      "name": "DOUBLETREE BY HILTON HOTEL MIAMI AIRPORT & CONVENTION CENTER",
+      "award": 4,
+      "isPreferential": false,
+      "location": {
+        "address": "711 N.w. 72nd Avenue, 33126, Miami, Miami, Fl, US",
+        "coordinates": {
+          "latitude": "25.778598",
+          "longitude": "-80.31063"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "SzXYh0Pm7w8a0SkjWe6X0RaK6xdxBtU8ApmS+HBoWYXSu4NfEo4JHbAqxYgkOrkM4jJ91JIPyjLscl9n7rXO5AIHv80L6BpQjK4QSJchgnrlPKqxA9M1tpN9+O8MlBcvdF5DZOt/10cwa2rGhaHO7hUywtByhmqLDFJfZ6yi7fk=|SA|true",
+          "mealPlan": "Sem café",
+          "category": "2 DOUBLE BEDS - NONSMOKING...37 INCH FL",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIyMTI5IiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQxODczMDMiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iNTgiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSJTelhZaDBQbTd3OGEwU2tqV2U2WDBSYUs2eGR4QnRVOEFwbVMrSEJvV1lYU3U0TmZFbzRKSGJBcXhZZ2tPcmtNNGpKOTFKSVB5akxzY2w5bjdyWE81QUlIdjgwTDZCcFFqSzRRU0pjaGducmxQS3F4QTlNMXRwTjkrTzhNbEJjdmRGNURaT3QvMTBjd2EyckdoYUhPN2hVeXd0QnlobXFMREZKZlo2eWk3Zms9IiBzY3Q9IkJSIiBzZHQ9IjIwMTYtMTEtMDRaIiBzc3Q9IlNQIiBzemk9Ijc3MyIvPg==",
+              "currency": "BRL",
+              "priceWithTax": 2753.2,
+              "priceWithoutTax": 2117.84,
+              "pricePerDayWithTax": 196.66,
+              "pricePerDayWithoutTax": 151.28,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIyMTI5IiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQxODczMDMiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI1OCIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9IlN6WFloMFBtN3c4YTBTa2pXZTZYMFJhSzZ4ZHhCdFU4QXBtUytIQm9XWVhTdTROZkVvNEpIYkFxeFlna09ya000ako5MUpJUHlqTHNjbDluN3JYTzVBSUh2ODBMNkJwUWpLNFFTSmNoZ25ybFBLcXhBOU0xdHBOOStPOE1sQmN2ZEY1RFpPdC8xMGN3YTJyR2hhSE83aFV5d3RCeWhtcUxERkpmWjZ5aTdmaz0iIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2753.2,
+              "priceWithoutTax": 2117.84,
+              "pricePerDayWithTax": 196.66,
+              "pricePerDayWithoutTax": 151.28,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ],
+          "cancellationPolicy": [
+            {
+              "nonRefundable": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34769557",
+      "priority": 4,
+      "name": "HOLIDAY INN EXPRESS MIAMI-ARPT CTRL-MIAMI SPRINGS",
+      "award": 3,
+      "isPreferential": false,
+      "location": {
+        "address": "5125 N.w. 36th Street, 33166, Miami Springs, Fl, U, 33166, Miami Airport, Miami, Fl, US",
+        "coordinates": {
+          "latitude": "25.808029",
+          "longitude": "-80.278948"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "tsmBMds4e7dVRvN6ACLIPG5ut4hE0d4Uvz1y3KXKBj01/BrM1DXzb4nQe2evw5TfOQb7D0XVGIkJ8oMXZ2e9RUcLWQCub/aC56RVn9H4vEZt5Ke0V0BVckcZJeSOa/rfB5Kt5JkJbDZs+x8L4k7aq1KhXFTLJZ+ohMerMbtVqNI=|AD|false",
+          "mealPlan": "Café da manhã",
+          "category": "TWO FULL SIZE BEDS NONSMOKING - IDH15",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIxMjg4NiIgY3VyPSJCUkwiIGR0Zj0iMjAxNi0xMS0yMyIgZHRpPSIyMDE2LTExLTA5IiBlY3Q9IlVTIiBlc3Q9IkZMIiBlemk9IjEzNTI4IiBob3Q9IjM0NzY5NTU3IiBsYW49InB0X0JSIiBta2k9IjEiIG1rcD0iMC42OCIgcGtnPSJTVEFOREFMT05FIiBwbGE9IjU4IiBwcmQ9IkhPVCIgcHhzPSIzMCwzMCIgcmV0PSIiIHJ0Yz0idHNtQk1kczRlN2RWUnZONkFDTElQRzV1dDRoRTBkNFV2ejF5M0tYS0JqMDEvQnJNMURYemI0blFlMmV2dzVUZk9RYjdEMFhWR0lrSjhvTVhaMmU5UlVjTFdRQ3ViL2FDNTZSVm45SDR2RVp0NUtlMFYwQlZja2NaSmVTT2EvcmZCNUt0NUprSmJEWnMreDhMNGs3YXExS2hYRlRMSlorb2hNZXJNYnRWcU5JPSIgc2N0PSJCUiIgc2R0PSIyMDE2LTExLTA0WiIgc3N0PSJTUCIgc3ppPSI3NzMiLz4=",
+              "currency": "BRL",
+              "priceWithTax": 2757.71,
+              "priceWithoutTax": 2121.31,
+              "pricePerDayWithTax": 196.98,
+              "pricePerDayWithoutTax": 151.53,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIxMjg4NiIgY3VyPSJCUkwiIGR0Zj0iMjAxNi0xMS0yMyIgZHRpPSIyMDE2LTExLTA5IiBlY3Q9IlVTIiBlc3Q9IkZMIiBlemk9IjEzNTI4IiBob3Q9IjM0NzY5NTU3IiBsYW49InB0X0JSIiBta2k9IjEiIG1rcD0iMC42OCIgcGtnPSJWSEkiIHBsYT0iNTgiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSJ0c21CTWRzNGU3ZFZSdk42QUNMSVBHNXV0NGhFMGQ0VXZ6MXkzS1hLQmowMS9Cck0xRFh6YjRuUWUyZXZ3NVRmT1FiN0QwWFZHSWtKOG9NWFoyZTlSVWNMV1FDdWIvYUM1NlJWbjlINHZFWnQ1S2UwVjBCVmNrY1pKZVNPYS9yZkI1S3Q1SmtKYkRacyt4OEw0azdhcTFLaFhGVExKWitvaE1lck1idFZxTkk9IiBzY3Q9IkJSIiBzZHQ9IjIwMTYtMTEtMDRaIiBzc3Q9IlNQIiBzemk9Ijc3MyIvPg==",
+              "currency": "BRL",
+              "priceWithTax": 2757.71,
+              "priceWithoutTax": 2121.31,
+              "pricePerDayWithTax": 196.98,
+              "pricePerDayWithoutTax": 151.53,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ],
+          "cancellationPolicy": [
+            {
+              "nonRefundable": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34984739",
+      "priority": 4,
+      "name": "Princess Ann Hotel",
+      "award": 3,
+      "isPreferential": false,
+      "location": {
+        "address": "920 Collins Avenue, Miami Beach 33139, Florida United States",
+        "coordinates": {
+          "latitude": "25.78",
+          "longitude": "-80.132"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "10E1MSsfQBVi9bIGdgx+DiVp+q3NtjvO13V5u2OweA+oko4MTeUL8QhNIXtC32obotHsNCGBYVWTxzzE0p6k+VPL6IBNxsLEevy2ot/SjZe7HqfTqOP/Y3nkG0gp2vryYuJlnc5UyC86UyJzc7YBpfT4nFK5A81qcwNIIfqoLkkKJVurraS4bZqGitD8IugJ|AD",
+          "mealPlan": "Café da manhã",
+          "category": "Standard Double/Double Non Refundable",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQ5ODQ3MzkiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iODYiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSIxMEUxTVNzZlFCVmk5YklHZGd4K0RpVnArcTNOdGp2TzEzVjV1Mk93ZUErb2tvNE1UZVVMOFFoTklYdEMzMm9ib3RIc05DR0JZVldUeHp6RTBwNmsrVlBMNklCTnhzTEVldnkyb3QvU2paZTdIcWZUcU9QL1kzbmtHMGdwMnZyeVl1SmxuYzVVeUM4NlV5SnpjN1lCcGZUNG5GSzVBODFxY3dOSUlmcW9Ma2tLSlZ1cnJhUzRiWnFHaXREOEl1Z0oiIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2825.42,
+              "priceWithoutTax": 2173.4,
+              "pricePerDayWithTax": 201.82,
+              "pricePerDayWithoutTax": 155.25,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSI1MTIzIiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQ5ODQ3MzkiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI4NiIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9IjEwRTFNU3NmUUJWaTliSUdkZ3grRGlWcCtxM050anZPMTNWNXUyT3dlQStva280TVRlVUw4UWhOSVh0QzMyb2JvdEhzTkNHQllWV1R4enpFMHA2aytWUEw2SUJOeHNMRWV2eTJvdC9TalplN0hxZlRxT1AvWTNua0cwZ3AydnJ5WXVKbG5jNVV5Qzg2VXlKemM3WUJwZlQ0bkZLNUE4MXFjd05JSWZxb0xra0tKVnVycmFTNGJacUdpdEQ4SXVnSiIgc2N0PSJCUiIgc2R0PSIyMDE2LTExLTA0WiIgc3N0PSJTUCIgc3ppPSI3NzMiLz4=",
+              "currency": "BRL",
+              "priceWithTax": 2825.42,
+              "priceWithoutTax": 2173.4,
+              "pricePerDayWithTax": 201.82,
+              "pricePerDayWithoutTax": 155.25,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34805864",
+      "priority": 4,
+      "name": "HOLIDAY INN EXPRESS AND SUITES MIAMI ARPT AND INTERMODAL AREA",
+      "award": 3,
+      "isPreferential": false,
+      "location": {
+        "address": "2601 NW 42nd Avenue Miami, Florida, Miami - Fl, Florida, United States OF America",
+        "coordinates": {
+          "latitude": "25.799985739961",
+          "longitude": "-80.264305139881"
+        }
+      },
+      "rooms": [
+        {
+          "rph": 1,
+          "group": "10E1MSsfQBVi9bIGdgx+DkMY6FTx+RlLBHUZElOR9JjTaAN1+OqHhNvtkNsOpw1i7JQbT31pUxJavyuG5GcAsQXzqkcyD4CLISqDvJTdrtuDO3wdji/x1piamyme4CMNd8u2JBhdgmFSZSMRvwHtxYP3otkQhTkrGwQVz5eaG+ZR0yDXJo0+y6+bIaUvR2xe|AD",
+          "mealPlan": "Café da manhã",
+          "category": "Double Standard",
+          "rates": [
+            {
+              "packageGroup": "STANDALONE",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIyMTI5IiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQ4MDU4NjQiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iODYiIHByZD0iSE9UIiBweHM9IjMwLDMwIiByZXQ9IiIgcnRjPSIxMEUxTVNzZlFCVmk5YklHZGd4K0RrTVk2RlR4K1JsTEJIVVpFbE9SOUpqVGFBTjErT3FIaE52dGtOc09wdzFpN0pRYlQzMXBVeEphdnl1RzVHY0FzUVh6cWtjeUQ0Q0xJU3FEdkpUZHJ0dURPM3dkamkveDFwaWFteW1lNENNTmQ4dTJKQmhkZ21GU1pTTVJ2d0h0eFlQM290a1FoVGtyR3dRVno1ZWFHK1pSMHlEWEpvMCt5NitiSWFVdlIyeGUiIHNjdD0iQlIiIHNkdD0iMjAxNi0xMS0wNFoiIHNzdD0iU1AiIHN6aT0iNzczIi8+",
+              "currency": "BRL",
+              "priceWithTax": 2909.68,
+              "priceWithoutTax": 2238.21,
+              "pricePerDayWithTax": 207.84,
+              "pricePerDayWithoutTax": 159.88,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            },
+            {
+              "packageGroup": "VHI",
+              "rateToken": "PHJhdGVUb2tlbiBhZ3M9IlciIGJyaT0iMTAwMCIgY2lkPSIzNDAwMSIgY21pPSIzNCIgY216PSIyMTI5IiBjdXI9IkJSTCIgZHRmPSIyMDE2LTExLTIzIiBkdGk9IjIwMTYtMTEtMDkiIGVjdD0iVVMiIGVzdD0iRkwiIGV6aT0iMTM1MjgiIGhvdD0iMzQ4MDU4NjQiIGxhbj0icHRfQlIiIG1raT0iMSIgbWtwPSIwLjY4IiBwa2c9IlZISSIgcGxhPSI4NiIgcHJkPSJIT1QiIHB4cz0iMzAsMzAiIHJldD0iIiBydGM9IjEwRTFNU3NmUUJWaTliSUdkZ3grRGtNWTZGVHgrUmxMQkhVWkVsT1I5SmpUYUFOMStPcUhoTnZ0a05zT3B3MWk3SlFiVDMxcFV4SmF2eXVHNUdjQXNRWHpxa2N5RDRDTElTcUR2SlRkcnR1RE8zd2RqaS94MXBpYW15bWU0Q01OZDh1MkpCaGRnbUZTWlNNUnZ3SHR4WVAzb3RrUWhUa3JHd1FWejVlYUcrWlIweURYSm8wK3k2K2JJYVV2UjJ4ZSIgc2N0PSJCUiIgc2R0PSIyMDE2LTExLTA0WiIgc3N0PSJTUCIgc3ppPSI3NzMiLz4=",
+              "currency": "BRL",
+              "priceWithTax": 2909.68,
+              "priceWithoutTax": 2238.21,
+              "pricePerDayWithTax": 207.84,
+              "pricePerDayWithoutTax": 159.88,
+              "taxes": [
+                {
+                  "code": "TaxesTable_19",
+                  "description": "TAXA DE REMESSA",
+                  "percent": 0.3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "nightsNumber": 14,
+    "statusExecution": {
+      "started": "2016-11-04T19:33:56.154Z",
+      "total": 4,
+      "executed": 4,
+      "completedExecution": true
+    },
+    "countHotels": 348,
+    "mealPlan": [
+      {
+        "name": "Sem café",
+        "amount": 294
+      },
+      {
+        "name": "Café da manhã",
+        "amount": 44
+      },
+      {
+        "name": "DIÁRIA(S) SEM CAFÉ DA MANHÃ",
+        "amount": 7
+      },
+      {
+        "name": "DIÁRIA(S) COM CAFÉ DA MANHÃ",
+        "amount": 2
+      },
+      {
+        "name": "DIÁRIA(S) COM CAFÉ DA MANHÃ BUFFET",
+        "amount": 1
+      }
+    ],
+    "lodging": [
+      {
+        "name": "Hotel",
+        "amount": 120
+      },
+      {
+        "name": "Resort",
+        "amount": 14
+      }
+    ],
+    "awards": [
+      {
+        "name": "3",
+        "amount": 173
+      },
+      {
+        "name": "4",
+        "amount": 135
+      },
+      {
+        "name": "5",
+        "amount": 40
+      }
+    ],
+    "amenities": [
+      {
+        "name": "Acesso VIP a casas noturnas",
+        "amount": 1
+      },
+      {
+        "name": "Café da manhã completo",
+        "amount": 4
+      },
+      {
+        "name": "Café da manhã continental",
+        "amount": 11
+      },
+      {
+        "name": "Café da manhã em estilo buffet",
+        "amount": 5
+      },
+      {
+        "name": "Café da manhã grátis",
+        "amount": 1
+      },
+      {
+        "name": "Cozinha completa",
+        "amount": 6
+      },
+      {
+        "name": "Drinque de boas-vindas grátis",
+        "amount": 1
+      },
+      {
+        "name": "Estacionamento grátis",
+        "amount": 12
+      },
+      {
+        "name": "Internet de alta velocidade grátis",
+        "amount": 28
+      },
+      {
+        "name": "Internet grátis",
+        "amount": 1
+      },
+      {
+        "name": "Internet sem fio grátis",
+        "amount": 37
+      },
+      {
+        "name": "Traslado grátis de/para o aeroporto",
+        "amount": 11
+      }
+    ]
+  }
+}
